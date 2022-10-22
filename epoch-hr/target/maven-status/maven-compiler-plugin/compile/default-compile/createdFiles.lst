@@ -1,0 +1,17 @@
+org\epoch\hr\api\controller\v1\HrCompanyController.class
+org\epoch\hr\domain\repository\HrCompanyRepository.class
+org\epoch\hr\infra\repository\impl\HrEmployeeRepositoryImpl.class
+org\epoch\hr\infra\mapper\HrEmployeeMapper.class
+org\epoch\hr\domain\repository\HrPositionRepository.class
+org\epoch\hr\infra\mapper\HrCompanyMapper.class
+org\epoch\hr\domain\repository\HrEmployeeRepository.class
+org\epoch\hr\domain\repository\HrDepartmentRepository.class
+org\epoch\hr\infra\repository\impl\HrPositionRepositoryImpl.class
+org\epoch\hr\infra\mapper\HrDepartmentMapper.class
+org\epoch\hr\infra\repository\impl\HrCompanyRepositoryImpl.class
+org\epoch\hr\api\controller\v1\HrDepartmentController.class
+org\epoch\hr\infra\mapper\HrPositionMapper.class
+org\epoch\hr\api\controller\v1\HrPositionController.class
+org\epoch\hr\infra\repository\impl\HrDepartmentRepositoryImpl.class
+org\epoch\hr\api\controller\v1\HrEmployeeController.class
+org\epoch\hr\HrApplication.class

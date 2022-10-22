@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "spring.activiti.epoch",
+      "type": "org.epoch.workflow.config.ActivitiProperties",
+      "sourceType": "org.epoch.workflow.config.ActivitiProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.activiti.epoch.table-name-upper-case",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.epoch.workflow.config.ActivitiProperties",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}

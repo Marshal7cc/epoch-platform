@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="epoch-hr" />
+        <module name="epoch-search" />
+        <module name="epoch-wechat" />
+        <module name="epoch-generator" />
+        <module name="epoch-workflow" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="epoch-generator" target="1.8" />
+      <module name="epoch-hr" target="1.8" />
+      <module name="epoch-platform" target="1.8" />
+      <module name="epoch-rule-engine" target="1.8" />
+      <module name="epoch-search" target="1.8" />
+      <module name="epoch-wechat" target="1.8" />
+      <module name="epoch-workflow" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="epoch-generator" options="-parameters" />
+      <module name="epoch-hr" options="-parameters" />
+      <module name="epoch-workflow" options="-parameters" />
+    </option>
+  </component>
+</project>

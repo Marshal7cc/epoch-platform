@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/epoch-generator/epoch-generator.iml" filepath="$PROJECT_DIR$/epoch-generator/epoch-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epoch-hr/epoch-hr.iml" filepath="$PROJECT_DIR$/epoch-hr/epoch-hr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epoch-platform.iml" filepath="$PROJECT_DIR$/epoch-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epoch-search/epoch-search.iml" filepath="$PROJECT_DIR$/epoch-search/epoch-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epoch-wechat/epoch-wechat.iml" filepath="$PROJECT_DIR$/epoch-wechat/epoch-wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epoch-workflow/epoch-workflow.iml" filepath="$PROJECT_DIR$/epoch-workflow/epoch-workflow.iml" />
+    </modules>
+  </component>
+</project>

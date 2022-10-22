@@ -1,0 +1,22 @@
+# server
+server:
+  port: 9030
+
+spring:
+  application:
+    name: epoch-search
+
+  elasticsearch:
+    rest:
+      uris: localhost:9200
+
+  # elasticsearch
+#  data:
+#    elasticsearch:
+##      cluster-name: elasticsearch
+##      cluster-nodes: localhost:9300
+#      repositories:
+#        enabled: true
+#    rest:
+#      uris: localhost:9200
+

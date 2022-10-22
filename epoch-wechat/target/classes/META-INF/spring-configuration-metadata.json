@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "wx.mp",
+      "type": "org.epoch.wechat.config.WxMpProperties",
+      "sourceType": "org.epoch.wechat.config.WxMpProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wx.mp.configs",
+      "type": "java.util.List<org.epoch.wechat.config.WxMpProperties$MpConfig>",
+      "sourceType": "org.epoch.wechat.config.WxMpProperties"
+    }
+  ],
+  "hints": []
+}
